@@ -235,6 +235,48 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    127.0585375,37.6438715,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "노원구 마들반려견임시놀이터",
+                "road": "",
+                "parcel": "서울특별시 노원구 상계동 770-2",
+                "website": "https://www.nowon.kr/www/mlrd/propse/BD_selectTodayPropseDetail.do?propseSn=7172",
+                "phone": "02-2116-4269",
+                "cost": "무료",
+                "days": "화~일요일, 동절기(12월~2월) 및 우천 등으로 놀이터 이용이 곤란할 경우 개장하지 않음",
+                "hours": "10:00~18:00",
+                "desc": "상계동 770-2 마들체육공원 내,  노원구청 보건위생과(☎ 02-2116-4269)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.0626657,37.6751322,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "노원구 노원골반려견임시놀이터",
+                "road": "",
+                "parcel": "서울특별시 노원구 상계동 산 62-5",
+                "website": "https://www.nowon.kr/www/mlrd/propse/BD_selectTodayPropseDetail.do?propseSn=7172",
+                "phone": "02-2116-4269",
+                "cost": "무료",
+                "days": "화~일요일, 동절기(12월~2월) 및 우천 등으로 놀이터 이용이 곤란할 경우 개장하지 않음",
+                "hours": "10:00~18:00",
+                "desc": "상계동 산 62-5 수락산등산로입구,  노원구청 보건위생과(☎ 02-2116-4269)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     126.767964,
                     37.6493615,
                     0
