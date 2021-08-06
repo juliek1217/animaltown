@@ -1,5 +1,5 @@
 {
-	"item": [
+"item": [
     {
 			"keyword": "Emergency",
 			"link": "https://www.sejong.go.kr/bbs/R0139/list.do",
@@ -146,7 +146,7 @@
       "image": "./images/info/zoe-ra-sirEpWjfSmo-unsplash.jpg",
 			"name": "유실·유기동물 입양, 습득, 분실 신고",
 			"title": "습득시 안내",
-			"description": "공공장소를 떠돌거나 버려진 동물을 발견한 경우 관할 시ㆍ군ㆍ구청과 해당 유기동물 보호시설에 신고해야 합니다.\n유기동물을 주인 없는 동물이라 여겨 마음대로 잡아서 팔거나 죽이면 2년 이하의 징역 또는 2천만원 이하의 벌금을 내게 됩니다.\n시장ㆍ군수ㆍ구청장은 관내에서 발견된 유기동물이 보호받을 수 있도록 필요한 조치를 해야 하며, 주인을 찾을 수 있도록 그 사실을 7 일 이상 공고해야 합니다.\n공고 후 10일이 지나도 주인을 찾지 못한 경우, 해당 시ㆍ군ㆍ구등이 동물의 소유권을 갖게 되어 개인에게 기증하거나 분양할 수 있습니다.",
+			"description": "공공장소를 떠돌거나 버려진 동물을 발견한 경우 관할 시ㆍ군ㆍ구청과 해당 유기동물 보호시설에 신고해야 합니다.\n유기동물을 주인 없는 동물이라 여겨 마음대로 잡아서 팔거나 죽이면 2년 이하의 징역 또는 2천만원 이하의 벌금을 내게 됩니다.\n시장ㆍ군수ㆍ구청장은 관내에서 발견된 유기동물이 보호받을 수 있도록 필요한 조치를 해야 하며, 주인을 찾을 수 있도록 그 사실을 7 일 이상 공고해야 합니다.\n공고 후 10일이 지나도 주인을 찾지 못한 경우, 해당 시ㆍ군ㆍ구등이 동물의 소유권을 갖게 되어 개인에게 기증하거나 분양할 수 있습니다."
 		},
     {
 			"keyword": "Adoption",
@@ -155,7 +155,7 @@
       "image": "./images/info/randy-laybourne-uXJ1dgzYeRA-unsplash.jpg",
 			"name": "유실·유기동물 입양, 습득, 분실 신고",
 			"title": "분실 신고",
-			"description": "동물등록이 되어 있는 반려동물을 잃어버린 경우에는 다음의 서류를 갖추어서 등록대상동물을 잃어버린 날부터 10일 이내에 해당 자치단체에 분실신고를 해야 합니다.\n- 동물등록 변경신고서\n- 동물등록증\n- 주민등록표 초본(「전자정부법」 제36조제1항에 따른 전자적 확인에 동의하지 않는 경우에만 첨부)\n동물보호관리시스템(www.animal.go.kr)에서도 분실신고가 가능합니다.\n잃어버린 반려동물에 대한 정보는 동물보호관리시스템(www.animal.go.kr)에 공고됩니다(「동물보호법 시행규칙」 별지 제1호서식 변경신고 안내란).",
+			"description": "동물등록이 되어 있는 반려동물을 잃어버린 경우에는 다음의 서류를 갖추어서 등록대상동물을 잃어버린 날부터 10일 이내에 해당 자치단체에 분실신고를 해야 합니다.\n- 동물등록 변경신고서\n- 동물등록증\n- 주민등록표 초본(「전자정부법」 제36조제1항에 따른 전자적 확인에 동의하지 않는 경우에만 첨부)\n동물보호관리시스템(www.animal.go.kr)에서도 분실신고가 가능합니다.\n잃어버린 반려동물에 대한 정보는 동물보호관리시스템(www.animal.go.kr)에 공고됩니다(「동물보호법 시행규칙」 별지 제1호서식 변경신고 안내란)."
 		},
 		{
 			"keyword": "Walk",
@@ -171,7 +171,7 @@
         {"url": "http://www.easylaw.go.kr/CSP/template/94f42c1260624eed92c9cc9220a2346c.jpg"},
         {"url": "http://www.easylaw.go.kr/CSP/template/52b621b970cf45ac8af9117825bf9f59.jpg"},
         {"url": "http://www.easylaw.go.kr/CSP/template/5a56a8f065c646bf932b9d975861ce29.jpg"},
-        {"url": "http://www.easylaw.go.kr/CSP/template/257c47822521480aa331a87875a1d7b1.jpg"},
+        {"url": "http://www.easylaw.go.kr/CSP/template/257c47822521480aa331a87875a1d7b1.jpg"}
       ]		
     },
 		{
@@ -198,9 +198,9 @@
         {"url": "http://www.easylaw.go.kr/CSP/template/15d7725f574b42e6ac99da31b7c32938.jpg"},
         {"url": "http://www.easylaw.go.kr/CSP/template/504e820f1a404e3e89bcbbc850c524f4.jpg"},
         {"url": "http://www.easylaw.go.kr/CSP/template/53aec69ac8d74d69bdafa6f613e8a081.jpg"},
-        {"url": "http://www.easylaw.go.kr/CSP/template/ea83e762e60840eab988a0d8759e578f.jpg"},
+        {"url": "http://www.easylaw.go.kr/CSP/template/ea83e762e60840eab988a0d8759e578f.jpg"}
       ]		
     }
-	]
+]
 }
 
