@@ -220,14 +220,14 @@
             },
             "properties": {
                 "name": "노원구 당고개임시반려견놀이터",
-                "road": "서울특별시 동대문구 사가정로 278",
+                "road": "",
                 "parcel": "서울특별시 노원구 상계3.4동 산157-11",
                 "website": "https://www.nowon.kr/www/mlrd/propse/BD_selectTodayPropseDetail.do?propseSn=7172",
                 "phone": "02-2116-4269",
-                "cost": "",
-                "days": "",
-                "hours": "",
-                "desc": "노원구청 보건위생과(☎ 02-2116-4269)"
+                "cost": "무료",
+                "days": "화~일요일, 동절기(12월~2월) 및 우천 등으로 놀이터 이용이 곤란할 경우 개장하지 않음",
+                "hours": "10:00~18:00",
+                "desc": "상계동 산 158-1,  노원구청 보건위생과(☎ 02-2116-4269)"
             }
         },
         {
