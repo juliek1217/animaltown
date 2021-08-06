@@ -213,6 +213,28 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    127.0879484,
+                    37.6759888,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "노원구 당고개임시반려견놀이터",
+                "road": "서울특별시 동대문구 사가정로 278",
+                "parcel": "서울특별시 노원구 상계3.4동 산157-11",
+                "website": "https://www.nowon.kr/www/mlrd/propse/BD_selectTodayPropseDetail.do?propseSn=7172",
+                "phone": "02-2116-4269",
+                "cost": "",
+                "days": "",
+                "hours": "",
+                "desc": "노원구청 보건위생과(☎ 02-2116-4269)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     126.767964,
                     37.6493615,
                     0
